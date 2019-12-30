@@ -10,7 +10,7 @@ int main(int argc,char **argv){
 
 	words[0] = "Hello";
 	words[1] = "awesome";
-	words[2] = "Peaple";
+	words[2] = "People";
 
 	for (i=0;i<SIZE;i++){
 		data[i] =  i;
